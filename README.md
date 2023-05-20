@@ -6,3 +6,4 @@
 > :scotland: :gb: <br>
 
 ![AxolotlMaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=axolotlmaid&show_icons=true&theme=dracula)
+![AxolotlMaid's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=axolotlmaid&hide_border=false&include_all_commits=true&count_private=false&layout=compact&theme=dracula)
