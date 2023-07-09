@@ -1,4 +1,4 @@
-[website]: https://axolotlmaid.dev
+[website]: https://axolotlmaid.com
 [discord]: https://discordapp.com/users/108888888888888888
 [twitter]: https://twitter.com/axolotlmaid
 [modrinth]: https://modrinth.com/user/AxolotlMaid
@@ -10,6 +10,8 @@
 [![Twitter](https://github.com/intergrav/devins-badges/blob/v3/assets/cozy-minimal/social/twitter-plural_64h.png?raw=true)](twitter)
 [![Modrinth](https://github.com/intergrav/devins-badges/blob/v3/assets/cozy-minimal/available/modrinth_64h.png?raw=true)](modrinth)
 [![Curseforge](https://github.com/intergrav/devins-badges/blob/v3/assets/cozy-minimal/available/curseforge_64h.png?raw=true)](curseforge)
+
+email: hello@axolotlmaid.com
 
 ## 📊 GitHub Statistics
 ![AxolotlMaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=axolotlmaid&show_icons=true&theme=dracula)<br/>
